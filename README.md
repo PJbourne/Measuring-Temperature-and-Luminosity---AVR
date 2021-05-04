@@ -4,6 +4,7 @@
 Video:
 [![img2](http://img.youtube.com/vi/TDRwlge7e1Q/0.jpg)](http://www.youtube.com/watch?v=TDRwlge7e1Q "")
 
+
 Needed:
 * Atmega328
 * 1500uF Capacitor (or higher)
@@ -21,6 +22,8 @@ No needed but can be used:
 If you want to see the ![Schematic](https://github.com/PJbourne/Temp-Bright-Sensor-AVR/blob/main/Schematic.pdf)
 
 If you want to see the ![Code](https://github.com/PJbourne/Temp-Bright-Sensor-AVR/blob/main/temp_bright_sens.ino)
+
+![img3](https://www.componentsinfo.com/wp-content/uploads/2020/01/atmega328p-pinout.gif)
 
 IMPORTANT NOTES:
 
