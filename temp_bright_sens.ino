@@ -1,6 +1,4 @@
-#include <TM1638.h>
 #include <LiquidCrystal.h>
-#include <InvertedTM1638.h>
 #define num 10
 #define sens A0
 #define LDR A1
