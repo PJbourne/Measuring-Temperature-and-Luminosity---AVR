@@ -1,4 +1,4 @@
-# Temp-Bright-Sensor-AVR
+# Measuring Temperature and Luminosity - AVR
 
 ![img1](https://github.com/PJbourne/Temp-Bright-Sensor-AVR/blob/main/atmega-proto-board.jpg)
 Video:
