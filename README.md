@@ -29,6 +29,6 @@ IMPORTANT NOTES:
 
 * For programming atmega328 is needed an ISP programmer. In my case I used an Arduino Leonardo (Arduino as ISP). So I did uploaded the 'ArduinoISP' code (from Arduino's IDE) and wired correctly the AVR-ISP pinage (there are some tutorials teaching this, just google).
 * For burning the code without External Oscilator, we gona use the internal oscilator, so it's needed to set a different kind of configuration at AVR config (there are tutorials in www.instructables.com, just google it).
-* If you are using External Oscilator, after burning the code (with the atmega off) you can retire the 'Crystal+Capacitors', and run without then. I don't recommend.
+* If you are not using External Oscilator, after burning the code (with the atmega off) you can retire the 'Crystal+Capacitors'.
 * I used the resistors and capacitors I had in hand, but you can use or combine different values. I recommend to calculate the I current before changing the values (to avoid burning up anything you dont want to)
 * You can use other kind of LDRs or LM sensors. But you need to verify the datasheet and change what is needed.
